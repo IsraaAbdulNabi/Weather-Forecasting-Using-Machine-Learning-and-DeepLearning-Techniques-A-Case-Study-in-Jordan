@@ -13,3 +13,5 @@ The proposed models can be run on low-cost and less resource-intensive computing
 The attached code can be run using google colab. First download the dataset from Kaggle, as it mentioned in the link above, then download the "Weather_Forecasting_using_ML_and_DL.ipynb" file, open it using google colab and upload the "weather_data_24hr.csv" file. You can run the code cell by cell to explore our analysis study. 
 
 
+Finally, this is a quick recabe of our study and analysis, you can watch it to have brief summary of our work: 
+https://drive.google.com/file/d/1_6vRlaaFMB91PGpe3db2kV3LB4wzuGeR/view?usp=sharing
